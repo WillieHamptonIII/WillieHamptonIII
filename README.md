@@ -10,6 +10,8 @@
 <h2>📜 Certificates </h2>
 
 - [GenAI for Excutives & Busniness Leaders: An intriducton](https://www.credly.com/users/willie-d-hampton-iii)
+- [OpenAI API for Beginners: Create AI Assistants with ChatGPT](https://www.coursera.org/account/accomplishments/records/FHSMAU16QVQI)
+
  
 
 <h2> 🤳 Connect with me:</h2>
